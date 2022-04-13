@@ -1,3 +1,5 @@
+> I'm \[Sebastian Rivera-Chepetla\] and I edited this file! 
+
 # Practice with git and GitHub
 
 This was edited by Shweta. 
